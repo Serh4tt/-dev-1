@@ -1,2 +1,2 @@
 ﻿# Odev-1
-1. Öde ektedir.
+1. Ödev ektedir. :)
